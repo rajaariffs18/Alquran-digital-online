@@ -1,0 +1,41 @@
+.card {
+    display: flex;
+    /* width: 100%; */
+    border-radius: 7px;
+    /* margin: 5px 15px; */
+    /* margin-left: 15px;
+    margin-bottom: 15px; */
+    /* height: 75px; */
+    padding: 10px;
+    background: white;
+    /* position: fixed; */
+    color: #009488;
+    margin-bottom: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow:1px 0 18px 0 rgba(0,0,0,.123);
+    -moz-box-shadow:1px 0 18px 0 rgba(0, 0, 0, 0.123);
+    box-shadow:1px 0 18px 0 rgba(0,0,0,.123);
+}
+
+.nomor{
+    font-weight: bold;
+    border: 2px solid #009488;
+    line-height: 35px;
+    /* padding:0 15px; */
+    border-radius: 50%;
+    text-align: center;
+    color: #4a4a4a;
+    width: 35px;
+    height: 35px;
+    margin-right: 45px; 
+}
+
+.ayat{
+    color: #4a4a4a;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.desc{
+    font-style: italic;
+}
